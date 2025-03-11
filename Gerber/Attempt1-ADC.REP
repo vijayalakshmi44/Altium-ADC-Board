@@ -1,0 +1,314 @@
+*************************************************************
+FileName = Attempt1-ADC.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Component Center
+      File : Attempt1-ADC.GM21
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer stackup
+      File : Attempt1-ADC.GM8
+
+    Adding Layer      : Layer stackup
+
+
+Used DCodes :
+    D16
+    D47
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Attempt1-ADC.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D16
+    D47
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Attempt1-ADC.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Attempt1-ADC.GM
+
+
+Used DCodes :
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Attempt1-ADC.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : GND Layer 2
+      File : Attempt1-ADC.G1
+
+    Adding Layer      : GND Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : PWR Layer 3
+      File : Attempt1-ADC.G2
+
+    Adding Layer      : PWR Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Attempt1-ADC.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D47
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Attempt1-ADC.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Attempt1-ADC.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Attempt1-ADC.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Attempt1-ADC.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D25
+    D26
+    D27
+    D30
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : Attempt1-ADC.GM6
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Attempt1-ADC.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Attempt1-ADC.GM2
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Fab Notes
+      File : Attempt1-ADC.GM7
+
+    Adding Layer      : Fab Notes
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Attempt1-ADC.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : Attempt1-ADC.GM1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D47
+*************************************************************
+

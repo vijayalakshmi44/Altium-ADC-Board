@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\aravi\OneDrive\Desktop\vijii\PHONE DATA\Lucky-Altium-Training\Altium PCB Training 2 - ADC\Attempt1-ADC.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

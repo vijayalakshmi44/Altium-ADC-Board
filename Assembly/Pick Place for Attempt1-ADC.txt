@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\aravi\OneDrive\Desktop\vijii\PHONE DATA\Lucky-Altium-Training\Altium PCB Training 2 - ADC\Project Outputs for Training 2 - Isolated-ADCs\Pick Place for Attempt1-ADC.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19-12-24
+Time:       16:59
+Revision:   75f032d65f8d813638b373f407bd1dc3475ceb33
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer    Footprint            Center-X(mm) Center-Y(mm) Rotation Description                                                             Variation 
+R2         2.67K           TopLayer RESC1608X55N         36.4623      10.0907      90       "RES SMD 2.67KOHM 0.5% 1/10W 0603"                                      Fitted    
+R1         4.32K           TopLayer RESC1608X55N         38.0371      10.0795      90       "RES SMD 4.32K OHM 0.5% 1/5W 0603"                                      Fitted    
+U3         AMC1203BPSA     TopLayer FP-PSA0008A-IPC_C    16.9805      20.2761      0        "IC ADC 16BIT SIGMA-DELTA 8SOP"                                         Fitted    
+U2         ADC128S102CIMTX TopLayer MTC16_N              20.2532      3.9189       0        "8-Channel, 500 kSPS to 1 MSPS, 12-Bit A/D Converter, 16-pin TSSOP"     Fitted    
+U1         ISL75051ASEHVFE TopLayer CFP102P1520X310-18AN 37.0465      20.2761      90       "Voltage regulator, linear, variable, 3 A, CFP-18 exposed pad, class V" Fitted    
+R11        22R             TopLayer RESC1608X55N         46.4445      20.7841      180      "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R10        22R             TopLayer RESC1608X55N         23.8385      21.0381      0        "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R9         22R             TopLayer RESC1608X55N         23.8131      19.4633      0        "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R8         22R             TopLayer RESC1608X55N         46.4445      13.1641      0        "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R7         22R             TopLayer RESC1608X55N         26.0991      7.0935       0        "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R5         22R             TopLayer RESC1608X55N         26.0991      5.5949       0        "RES SMD 22 OHM 0.5% 1/10W 0603"                                        Fitted    
+R4         511R            TopLayer RESC1608X55N         40.0945      30.4361      270      "RES SMD 511 OHM 1% 1/10W 0603"                                         Fitted    
+R3         806R            TopLayer RESC1608X55N         40.3485      9.3541       180      "RES SMD 806 OHM 0.5% 1/10W 0603"                                       Fitted    
+J4         61301621121     TopLayer 61301621121          50.5085      19.5141      270      "THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Dual Row, 16 pins"      Fitted    
+J3         73251-1350      TopLayer FP-73251-1350-MFG    4.7885       30.6901      0        "CONN SMA JACK STR 50 OHM SMD"                                          Fitted    
+J2         73251-1350      TopLayer FP-73251-1350-MFG    4.7885       4.2741       0        "CONN SMA JACK STR 50 OHM SMD"                                          Fitted    
+J1         73251-1350      TopLayer FP-73251-1350-MFG    4.7885       21.0381      0        "CONN SMA JACK STR 50 OHM SMD"                                          Fitted    
+C19        "0.10 µF"       TopLayer FP-C0603C-CF-MFG     25.6165      2.7501       90       "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C18        1uF             TopLayer CAPC1608X90N         27.3945      2.7501       90       "CAP CER 1UF 25V X7R 0603"                                              Fitted    
+C17        1uF             TopLayer CAPC1608X90N         12.6625      6.5601       90       "CAP CER 1UF 25V X7R 0603"                                              Fitted    
+C16        "0.10 µF"       TopLayer FP-C0603C-CF-MFG     14.6945      6.4088       90       "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C15        100pF           TopLayer CAPC1608X90N         40.3485      10.8781      0        "CAP CER 100PF 50V C0G/NP0 0603"                                        Fitted    
+C14        4.7nF           TopLayer CAPC1608X90N         37.3005      7.7031       0        "CAP CER 4700PF 50V C0G 0603"                                           Fitted    
+C13        220uF/25V       TopLayer CAP_AE830X1050N      24.3465      12.4021      180      "CAP ALUM 220UF 20% 25V SMD"                                            Fitted    
+C12        "0.10 µF"       TopLayer FP-C0603C-CF-MFG     33.4905      10.8781      0        "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C11        "0.10 µF"       TopLayer FP-C0603C-CF-MFG     42.6345      10.1161      270      "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C10        "0.10 µF"       TopLayer FP-C0603C-CF-MFG     38.3165      30.4361      270      "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C9         220uF/25V       TopLayer CAP_AE830X1050N      24.3465      31.4521      180      "CAP ALUM 220UF 20% 25V SMD"                                            Fitted    
+C8         10uF            TopLayer CAPC1608X90N         36.5385      30.4361      90       "CAP CER 10UF 25V X5R 0603"                                             Fitted    
+C7         10uF            TopLayer CAPC1608X90N         21.8065      25.8641      180      "CAP CER 10UF 25V X5R 0603"                                             Fitted    
+C2         "0.10 µF"       TopLayer FP-C0603C-CF-MFG     34.7605      30.4361      270      "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
+C1         "0.10 µF"       TopLayer FP-C0603C-CF-MFG     21.8065      24.0861      0        "CAP CER 0.1UF 50V 5% X7R 0603"                                         Fitted    
