@@ -1,35 +1,44 @@
 # Altium-ADC-Board
 ADC Board PCB Design in Altium with Complete project files
-# Class-D Amplifier Board Design
+# Class-D Amplifier Board
 
 ## Overview
 
-This repository showcases the design of a Class-D amplifier board utilizing Texas Instruments' TPA3130D2DAPR 2x15W Class-D amplifier IC. The project was developed using Altium Designer 22 and is based on the schematic design presented in Phil's Lab tutorial. :contentReference[oaicite:0]{index=0}
+This project involves the design of a Class-D amplifier PCB utilizing Texas Instruments' TPA3130D2DAPR 2x15W Class-D amplifier IC. The PCB was designed using Altium Designer 22, based on the schematic provided in Phil's Lab tutorial ([youtube.com](https://www.youtube.com/watch?v=wCYNTt5krDM&utm_source=chatgpt.com)).
 
 ## Project Highlights
 
-- **PCB Specifications**:
-  - **Layers**: 2-layer board with 1 reference layer
-  - **Material**: FR4 with 1.6mm thickness
+- **2-Layer PCB Design**: Designed a 2-layer board with a dedicated ground reference plane for improved signal integrity and noise reduction.
+- **Material Specifications**: Utilized FR4 material with a thickness of 1.6mm.
+- **Library Management**: Extracted and refined all component libraries in accordance with datasheet specifications and IPC standards.
+- **Design Rule Compliance**: Ensured all design rules were meticulously followed as per IPC guidelines.
+- **Manufacturing Outputs**: Generated comprehensive Gerber files and automated assembly files to facilitate seamless manufacturing and assembly processes.
 
-- **Design Considerations**:
-  - All component libraries were meticulously extracted and verified against their respective datasheets, adhering to IPC standards.
-  - Design Rule Checks (DRC) were thoroughly conducted to ensure compliance with IPC guidelines.
+## Repository Contents
 
-- **Deliverables**:
-  - Comprehensive Gerber files
-  - Automated assembly files
+- `Schematic.pdf`: Detailed schematic of the Class-D amplifier circuit.
+- `BOM.xlsx`: Bill of materials listing all components used in the design.
+- `PCB.pdf`: Report detailing the PCB stack-up and layer information.
+- `Altium/`: Directory containing Altium Designer project files, including schematics and PCB layout.
+- `CHANGELOG.md`: Documentation of changes and updates made throughout the project.
+- `LICENSE`: License information for the project.
 
-## About the Designer
+## Tools Used
 
-I am a dedicated PCB Design Engineer with a strong foundation in electrical and electronic engineering. My expertise encompasses PCB design, signal integrity analysis, and proficiency with industry-standard tools like Altium Designer. I am committed to continuous learning and staying abreast of the latest advancements in PCB design and manufacturing.
-
-For a detailed overview of my professional background and other projects, please visit my [LinkedIn profile](https://www.linkedin.com/in/vijayalakshmi-m-542050314).
+- **PCB Design Software**: Altium Designer 22
 
 ## Acknowledgments
 
-Special thanks to Phil's Lab for the insightful tutorial that served as the foundation for this project. :contentReference[oaicite:1]{index=1}
+The schematic design for this project was adapted from Phil's Lab tutorial on Class-D audio amplifier hardware design ([youtube.com](https://www.youtube.com/watch?v=wCYNTt5krDM&utm_source=chatgpt.com)).
 
-## Disclaimer
+## About Me
 
-The schematic design utilized in this project is sourced from Phil's Lab tutorial and is intended for educational and demonstration purposes. All design files and outputs in this repository are original and were created based on the referenced schematic.
+I am a PCB design engineer with a focus on creating efficient and reliable electronic designs. For more about my professional background, please visit my LinkedIn profile: [Vijayalakshmi M](https://www.linkedin.com/in/vijayalakshmi-m-542050314).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+*Note: This project is intended for educational and demonstration purposes. The schematic design credits go to Phil's Lab.*
