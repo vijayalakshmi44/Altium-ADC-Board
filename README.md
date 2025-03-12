@@ -8,7 +8,7 @@ The module will include the following set of major components:
  - **AMC1203BPSA** - Single-channel 40 kSps 8-bit sigma-delta isolated current-sensing ADC.
  
 The two main portions of the schematics for this module are the isolated and non-isolated ADCs.
-The PCB was designed using Altium Designer 22, based on the schematic provided in Zachariah Peterson tutorial ([altium.com]([https://www.youtube.com/watch?v=wCYNTt5krDM&ab_channel=Phil%E2%80%99sLab](https://resources.altium.com/p/dual-adc-module-pcb-design-project#starting-the-adc-module))).
+The PCB was designed using Altium Designer 23, based on the schematic provided in Zachariah Peterson tutorial ([altium.com]([https://www.youtube.com/watch?v=wCYNTt5krDM&ab_channel=Phil%E2%80%99sLab](https://resources.altium.com/p/dual-adc-module-pcb-design-project#starting-the-adc-module))).
 
 ## Project Highlights
 
